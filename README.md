@@ -90,6 +90,3 @@ The COCO Dataset team for the object detection benchmark and annotations
 
 
 <div align="center">
-Made with ❤️ using YOLOv8 and Google Colab
-⭐ If you find this project useful, consider giving it a star!
-</div>
